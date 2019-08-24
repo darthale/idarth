@@ -1,0 +1,8 @@
+
+sourceNote: This site is open <a href="https://github.com/darthale/idarth">source</a>
+
+poweredBy:
+  - url: https://www.gatsbyjs.org
+    title: Gatsby
+  - url: https://www.github.com/janosh/janosh.io
+    title: Github
