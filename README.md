@@ -1,2 +1,1 @@
-# idarth
-Personal blog, originally forked from janosh/janosh.io
+# [idarth.com](https://idarth.com)

@@ -1,3 +1,8 @@
+const sharp = require('sharp')
+sharp.simd(false)
+sharp.cache(false)
+
+
 const path = require(`path`)
 const fs = require(`fs`)
 const ExifReader = require(`exifreader`)
