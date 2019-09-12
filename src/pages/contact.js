@@ -12,19 +12,8 @@ const ContactPage = ({ data, location }) => (
       <h1>Contact</h1>
     </PageTitle>
     <PageBody>
-      <p>You can reach me by email or on any of these platforms.</p>
+      <p>You can find me at: </p>
       <Social size="2em" />
-      <p>
-        I spend most of my days at the Maxwell Centre. If you‘re in the area,
-        feel free to drop by.
-      </p>
-      <iframe
-        title="Contact Map"
-        src={`https://www.google.com/maps/embed/v1/place?key=${
-          process.env.GATSBY_GOOGLE_MAPS_API_KEY
-        }&q=Maxwell+Centre,Cambridge,UK`}
-        css="height: 80vh; width: 100%; border: 0;"
-      />
     </PageBody>
   </Global>
 )
