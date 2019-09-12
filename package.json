@@ -63,8 +63,7 @@
   },
   "scripts": {
     "build": "gatsby build",
-    "deploy": "gatsby-plugin-s3 deploy",
-    "awsdeploy": "aws s3 sync public s3://www.idarth.com --acl public-read --delete",
+    "deploy": "aws s3 sync public s3://www.idarth.com --acl public-read --delete",
     "dev": "gatsby develop",
     "ship": "gatsby build && npm run deploy",
     "format": "prettier --write '**/*.js'",
