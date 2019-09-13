@@ -22,7 +22,7 @@ export default ContactPage
 
 export const query = graphql`
   {
-    img: file(name: { eq: "mt-meru" }) {
+    img: file(name: { eq: "ag-mountain" }) {
       sharp: childImageSharp {
         fluid(maxWidth: 1800) {
           ...GatsbyImageSharpFluid_withWebp

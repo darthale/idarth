@@ -70,7 +70,7 @@ export const query = graphql`
         count: totalCount
       }
     }
-    img: file(name: { eq: "blog-cover" }) {
+    img: file(name: { eq: "blogwp" }) {
       sharp: childImageSharp {
         fluid(maxWidth: 1800) {
           ...GatsbyImageSharpFluid_withWebp
