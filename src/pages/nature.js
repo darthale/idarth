@@ -9,7 +9,7 @@ import Photos from '../views/Photos'
 const NaturePage = ({ data, location }) => {
   const [modal, setModal] = useState()
   const [tab, setTab] = useState(`list`)
- const photos = data.photos.edges.map(({ node }) => ({
+  const photos = data.photos.edges.map(({ node }) => ({
     ...(node.fields && node.fields.meta),
     ...node.img,
   }))
@@ -26,7 +26,6 @@ const NaturePage = ({ data, location }) => {
       <PageBody cols="2/-2">
         <ButtonGroup css="margin-top: 0;">
           <button {...buttonProps(`list`)}>List</button>
-          <button {...buttonProps(`map`)}>Map</button>
         </ButtonGroup>
         <Photos {...photoProps} />
       </PageBody>

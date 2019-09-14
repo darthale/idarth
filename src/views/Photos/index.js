@@ -8,7 +8,7 @@ import Map from "../../components/Map"
 
 import { Thumbnail, Img } from "./styles"
 
-const addMarkers = (photos, setModal) => map => {
+/*const addMarkers = (photos, setModal) => map => {
   const markers = photos.map(({ caption, lat, lng }, index) => {
     const marker = new window.google.maps.Marker({
       map,
@@ -20,7 +20,7 @@ const addMarkers = (photos, setModal) => map => {
     return marker
   })
   new MarkerClusterer(map, markers)
-}
+}*/
 
 const mapProps = (...args) => ({
   options: {
@@ -31,7 +31,7 @@ const mapProps = (...args) => ({
 })
 
 export default function Photos({ tab, photos, modal, setModal }) {
-  const MemoMap = useCallback(<Map {...mapProps(photos, setModal)} />, [])
+  // const MemoMap = useCallback(<Map {...mapProps(photos, setModal)} />, [])
   const currentPhoto = modal >= 0 && modal < photos.length && photos[modal]
   return (
     <>
