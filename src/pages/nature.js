@@ -9,7 +9,7 @@ import Photos from '../views/Photos'
 const NaturePage = ({ data, location }) => {
   const [modal, setModal] = useState()
   const [tab, setTab] = useState(`list`)
-  const photos = data.photos.edges.map(({ node }) => ({
+ const photos = data.photos.edges.map(({ node }) => ({
     ...(node.fields && node.fields.meta),
     ...node.img,
   }))
@@ -20,7 +20,7 @@ const NaturePage = ({ data, location }) => {
   })
   return (
     <Global path={location.pathname}>
-      <PageTitle img={photos[13].fluid}>
+      <PageTitle img={photos[11].fluid}>
         <h1>Nature</h1>
       </PageTitle>
       <PageBody cols="2/-2">

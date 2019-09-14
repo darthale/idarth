@@ -5,10 +5,10 @@
   url: /experience
 
 - title: Photos
-  url: /photos
+  url: /nature
 
-- title: Hobbies
-  url: /hobbies
+#- title: Hobbies
+#  url: /hobbies
 
 - title: Contact
   url: /contact

@@ -1,5 +1,5 @@
 ---
-title: Nature, Physics, ML, Web
+title: Data, ML, Infrastucture
 purpose: landing intro
 cover:
   img: zim_cover.JPG
