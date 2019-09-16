@@ -6,7 +6,7 @@ require(`dotenv`).config()
 module.exports = {
   siteMetadata: {
     title: `idarth.com`,
-    description: `Turnin pizza into code.`,
+    description: `Turning pizza into code.`,
     author: `Alessio Gastaldo`,
     url: `https://idarth.com`,
   },

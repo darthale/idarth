@@ -11,8 +11,7 @@ export const query = graphql`
   }
   fragment cover on MarkdownRemarkFrontmatter {
     cover {
-      credit
-      url
+      
       caption
       img {
         ...sharpSrc

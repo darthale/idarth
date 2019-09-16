@@ -19,7 +19,7 @@ export default PageNotFound
 
 export const query = graphql`
   {
-    file(name: { eq: "tasmania" }) {
+    file(name: { eq: "zim_cover" }) {
       img: childImageSharp {
         fluid(maxWidth: 2000) {
           ...GatsbyImageSharpFluid_withWebp

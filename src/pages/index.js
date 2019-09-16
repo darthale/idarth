@@ -11,11 +11,11 @@ import PageTitle from "../components/PageTitle"
 import Scroll from "../components/Scroll"
 import { PageBody } from "../components/styles"
 import PostList from "../views/PostList"
-import Projects from "../views/Projects"
+// import Projects from "../views/Projects"
 import mediaQuery from "../utils/mediaQuery"
 
 export default function IndexPage({ data, location }) {
-  const { md, alessio, posts, projects } = data
+  const { md, alessio, posts} = data
   const img = {
     ...md.frontmatter.cover,
     fluid: md.frontmatter.cover.img.sharp.fluid,
@@ -33,8 +33,7 @@ export default function IndexPage({ data, location }) {
         <p dangerouslySetInnerHTML={{ __html: md.html }} />
         <H>Recent posts</H>
         <PostList asRow noText posts={posts.edges} />
-        {/* <H>Recent projects</H> 
-        <Projects asRow {...projects} />*/}
+    
       </PageBody>
     </Global>
   )
@@ -105,6 +104,5 @@ export const query = graphql`
         }
       }
     }
-    ...projects
   }
 `

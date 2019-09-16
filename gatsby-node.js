@@ -72,9 +72,9 @@ exports.onCreateNode = ({ node, actions }) => {
     const buffer = fs.readFileSync(node.absolutePath)
     const tags = ExifReader.load(buffer)
     const meta = {
-      lat: tags.GPSLatitude.description,
-      lng: tags.GPSLongitude.description,
-      caption: tags.Headline.description,
+      //lat: tags.GPSLatitude.description,
+      //lng: tags.GPSLongitude.description,
+      //caption: tags.Headline.description,
     }
     actions.createNodeField({ node, name: `meta`, value: meta })
   }

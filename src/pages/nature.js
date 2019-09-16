@@ -42,13 +42,6 @@ export const query = graphql`
     ) {
       edges {
         node {
-          fields {
-            meta {
-              caption
-              lat
-              lng
-            }
-          }
           img: childImageSharp {
             fluid(maxWidth: 2000) {
               ...GatsbyImageSharpFluid_withWebp
