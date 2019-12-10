@@ -54,7 +54,7 @@ At some point, as a result of this introspection, you may find yourself asking (
 >Try to come up with 3 to 5 principles that define yourself, that motivate you, that you would never give up. When you have found those truths, try to go back to your day-to-day and see if your colleagues share the same values. 
 
 It was not as easy and immediate to find what drives me. 
-I did not sit down in a room with a block of post-it and a pen to find these principles. I have rather used the opposite process: I listed out what was driving me mad in certain behaviours around me, feedback and reactions I observed over and over. In this way, I worked out a group of pillars that define me quite well. 
+I did not sit down in a room with a block of post-it and a pen to come up with these principles. I have rather used the opposite process: I listed out what was driving me mad in certain behaviours around me, feedback and reactions I observed over and over. In this way, I worked out a group of pillars that define me quite well. 
 
 ### Goals
 
@@ -62,7 +62,7 @@ I thrive in an environment with clear goals, I struggle when none are set.
 Defining long-term goals and breaking these down in mid/short-term objectives is essential for me. 
 This helps to measure mine and my team's progress towards the set targets. It gives me a sense of how good or bad I'm doing and what or where I should focus my attention next.  It also defines the purpose of my efforts. 
 
-I'm lost when there are no goals, I struggle with people that refuse to set clear objectives. 
+I'm lost when there are no goals, I struggle with people that refuse to set clear objectives. No goals means chaos for me.
 
 ### Ownership
 
@@ -72,7 +72,7 @@ I thrive when people around me share this feeling, but I struggle to understand 
 
 ### Actions
 
-Through decisions making and actions you move closer to reach your goals. [Faffing around](https://www.urbandictionary.com/define.php?term=faffing), endless researching or studying are against my approach. 
+Through decisions making and actions you move closer to reach your goals. [Faffing around](https://www.urbandictionary.com/define.php?term=faffing), endless researching and studying are against my approach. 
 
 I firmly believe in acting-failing-learning. I struggle when I am amongst people that fill their days with countless meetings and endless chats. I prefer seeing actions and progresses, I love listening to lessons learned.
 
