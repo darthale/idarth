@@ -11,7 +11,7 @@ I started my career in software engineering as a Web Services and API developer 
 
 I then moved abroad where I started to explore new areas of software engineering, getting closer to the data engineering one. I started to work on projects with a data flavour first and with a data science focus after. My responsibilities went from merely developing API to architecting data intensive applications, making infrastructure decisions, designing BI dashboards and leading the development of multiple projects.
 
-I got closer and closer to the Data Science world, working side by side with Data Scientists to build products with Machine Learning at their core. At the same time I have embraced a DevOps philosophy where everything was built, maintained and owned within our Data Science squad. In this period, mentoring and managing more junior engineers also became an area of focus.
+I got closer and closer to the Data Science world, working side by side with Data Scientists to build products with Data Science at their core. At the same time I have embraced a DevOps philosophy where everything was built, maintained and owned within our Data Science squad. In this period, mentoring and managing more junior engineers also became an area of focus.
 
 At the moment I’m part of a newly created team within a big player of the Oil and Gas industry. As a Machine Learning engineer, I’m tasked with: building the foundations of our engineering team, architecting new evolutions of our data platform and supporting the Data Science team productionising their models.
 
