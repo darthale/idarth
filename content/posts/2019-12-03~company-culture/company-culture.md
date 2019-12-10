@@ -47,7 +47,7 @@ If this feeling keeps repeating over and over, then you should start considering
 
 ## Find what drives you
 
-You don't realise overnight if you ended up in the right environment. It takes time, effort and many introspections. Or at least it was what it took me.  
+You don't realise overnight if you ended up in the right environment. It takes time, effort and many introspections. Or at least it is what it took me.  
 As you collaborate with more and more people, you start seeing the first traits of the culture that drives the company and you also start to ask yourself many questions.  Are these aspects ok with me? Are we sharing the same principles? What matter for me, does it matter for them too?  
 At some point, as a result of this introspection, you may find yourself asking (probably) the most important question: what is driving me? 
 
