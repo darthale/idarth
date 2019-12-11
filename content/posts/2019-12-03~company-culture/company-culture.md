@@ -15,13 +15,13 @@ showToc: true
 
 I have never realised how important is being part of a company with a good culture, or with a culture that is in line with yours, until I started working for one whose culture clashed with mine.
 
-This could easily fall into the list of things that either you don't give particular attention to or you don't care about until you lose them. 
+This could easily fall into the list of things that either you don't give particular attention to, or you don't care about, until you lose them. 
 
 It is hard or even impossible (at least for me) gather information about company culture during the interview process. Even if your interviewer says that they have a good culture, what he's good for him might not be for you. 
 
 This is not going to be a technical post as you may have already guessed. I have never thought I would find myself writing about culture, but this topic has been stressing me for quite a while now and I wanted to share my experience. 
 
-All of my words below might sound trivial and obvious, but working in an environment that shares your same principles is important, much more important than working with the latest cutting-edge technologies or frameworks. 
+All of my words below might sound trivial and obvious, but working in an environment that shares your same principles is important, is much more important than working with the latest cutting-edge technologies or frameworks. 
 
 
 ## Why the right culture is important
@@ -47,7 +47,7 @@ If this feeling keeps repeating over and over, then you should start considering
 
 ## Find what drives you
 
-You don't realise overnight if you ended up in the right environment. It takes time, effort and many introspections. Or at least it is what it took me.  
+You don't realise overnight if you ended up in the right environment. It takes time, effort and many introspections. Or at least this is what it took me.  
 As you collaborate with more and more people, you start seeing the first traits of the culture that drives the company and you also start to ask yourself many questions.  Are these aspects ok with me? Are we sharing the same principles? What matter for me, does it matter for them too?  
 At some point, as a result of this introspection, you may find yourself asking (probably) the most important question: what is driving me? 
 
@@ -76,8 +76,17 @@ Through decisions making and actions you move closer to reach your goals. [Faffi
 
 I firmly believe in acting-failing-learning. I struggle when I am amongst people that fill their days with countless meetings and endless chats. I prefer seeing actions and progresses, I love listening to lessons learned.
 
-### Dive deep
+### Details and Data
 
+I tend to dive deep and look for as many information as possible to back my opinions and assumptions. I don't like assuming for the sake of assuming and I don't like facing a  discussion with a group of people if I don't have clear data backing up my reasons and my hypotheses. 
+
+I find irritating and useless trying to solve a problem without diving to the roots of said issue. Pretending to find solutions without digging as deep as you should is something against my approach. 
+
+I find pointless when people speculate about probable answers and disagree with your point in the absence of data and details.
+
+## Are we on the same page? 
+
+## And now what?
 
 ## Can you change the culture? 
 
